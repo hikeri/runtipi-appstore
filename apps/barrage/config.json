@@ -2,7 +2,7 @@
   "$schema": "../schema.json",
   "name": "Barrage",
   "port": 8145,
-  "available": true,
+  "available": false,
   "exposable": true,
   "id": "barrage",
   "tipi_version": 3,
